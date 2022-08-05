@@ -24,4 +24,4 @@
 ### 1. [AI-hub](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=86)  
   
   
-### 2. 네이버 영화 리뷰
+### 2. [네이버 영화 리뷰](https://raw.githubusercontent.com/CUAI-CAU/2022_Summer_NLP_T15/main/nsmc_data.txt)
