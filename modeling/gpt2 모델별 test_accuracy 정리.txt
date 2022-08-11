@@ -1,0 +1,6 @@
+mark1: 88.01% / mark6: 88.00% > epoch=3, batch_size=64
+mark2: 87.74% / mark7: 87.89% > epoch=5, batch_size=64
+mark3: 87.51% / mark8: 87.61% > epoch=3, batch_size=256
+mark4: 87.84% / mark9: 87.93% > epoch=5, batch_size=256
+mark5: 87.74% / mark10: 87.86% > epoch=3, batch_size=16
+padding='pre' / padding='post'
