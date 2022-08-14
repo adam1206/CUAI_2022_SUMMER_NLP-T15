@@ -3,4 +3,4 @@
 #### 3. NSMC_DATA_PREPROCESSING.ipynb: 전처리한 nsmc 데이터와 ai hub 데이터를 합치고 정제하는 과정을 담은 코드
 #### 4. LSTM_BI_LSTM_MODELING.ipynb: lstm과 bi-lstm 모델을 학습시킨 코드
 #### 5. GPT2_MODELING.ipynb: GPT2 모델을 학습시킨 코드
-#### 6.
+#### 6. KoBERT_MODELING.ipynb: KoBERT 모델을 학습시킨 코드
