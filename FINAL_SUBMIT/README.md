@@ -5,3 +5,4 @@
 #### 5. GPT2_MODELING.ipynb: GPT2 모델을 학습시킨 코드
 #### 6. KoBERT_MODELING.ipynb: KoBERT 모델을 학습시킨 코드
 #### 7. EVERYTIME_DATA_CRAWLING.ipynb: 에브리타임에서 강의 평가글을 가져오는 코드
+#### 8. EVERYTIME_DATA_PREDICTING.ipynb: 크롤링한 데이터로 점수를 산출하는 과정을 담은 코드
