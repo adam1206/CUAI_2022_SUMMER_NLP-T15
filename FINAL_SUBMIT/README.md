@@ -4,3 +4,4 @@
 #### 4. LSTM_BI_LSTM_MODELING.ipynb: lstm과 bi-lstm 모델을 학습시킨 코드
 #### 5. GPT2_MODELING.ipynb: GPT2 모델을 학습시킨 코드
 #### 6. KoBERT_MODELING.ipynb: KoBERT 모델을 학습시킨 코드
+#### 7. EVERYTIME_DATA_CRAWLING.ipynb: 에브리타임에서 강의 평가글을 가져오는 코드
